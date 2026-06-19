@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 218" width="190" height="218">
+  <!--
+    Halliday Inc. — H Logo Mark (Icon only)
+    Reconstructed as SVG from raster original
+  -->
+
+  <!-- Left bar: upper portion (above diagonal slash) -->
+  <polygon 
+    points="57,3 63,3 63,100 62,105 56,115 46,120 36,125 25,130 16,135 6,140 0,143 0,48" 
+    fill="#3b3f42"/>
+
+  <!-- Diagonal connector (bridges right bar to left bar) -->
+  <polygon 
+    points="128,100 128,115 119,120 111,125 103,130 95,135 87,140 79,145 38,145 49,140 60,135 70,130 81,125 91,120 102,115 113,110 124,105" 
+    fill="#3b3f42"/>
+
+  <!-- Left bar: lower portion (below diagonal slash) -->
+  <polygon 
+    points="38,145 79,145 70,150 63,155 63,217 0,217 0,165 7,160 18,155 28,150" 
+    fill="#3b3f42"/>
+
+  <!-- Right bar (full height) -->
+  <rect x="128" y="0" width="62" height="218" fill="#3b3f42"/>
+</svg>
